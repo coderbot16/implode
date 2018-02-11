@@ -2,5 +2,3 @@
 name = "implode"
 version = "0.1.0"
 authors = ["coderbot16 <coderbot16@gmail.com>"]
-
-[dependencies]
