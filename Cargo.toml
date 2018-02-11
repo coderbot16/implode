@@ -1,6 +1,6 @@
 [package]
 name = "implode"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["coderbot16 <coderbot16@gmail.com>"]
 description = "Pure Rust implementation of the DCL Implode algorithm. Currently, only decompression is supported."
 license = "MIT"
